@@ -1,0 +1,12 @@
+BR BN BB BQ BK BB BN BR 
+BP BP BP . BP BP . BP 
+. . . . . . . . 
+. . . BP . . BP . 
+. WP . . WP . . . 
+. . WN . . . . . 
+WP . WP WP . WP WP WP 
+WR . WB WQ WK WB WN WR 
+turn: B
+lastMove: 5 2
+whiteKingMoved: false
+blackKingMoved: false

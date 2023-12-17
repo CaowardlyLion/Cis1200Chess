@@ -1,0 +1,12 @@
+. . . . BK . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. WR . . . . . .
+. . . . WK . . .
+turn: W
+lastMove: -1 -1
+whiteKingMoved: 0
+blackKingMoved: 0
